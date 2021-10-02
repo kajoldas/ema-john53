@@ -5,6 +5,7 @@ const PlaceOrder = () => {
     return (
         <div>
             <img src={img} alt="" />
+            
         </div>
     );
 };
